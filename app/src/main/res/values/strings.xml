@@ -6,7 +6,18 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- SignIn Activity-->
+    <string name="job_seeker_text">Applying for a job Right Job Enables Job seekers to find the latest openings</string>
+    <string name="todo">TODO</string>
+    <string name="job_seeker">Job Seeker</string>
+    <string name="recrutier_text">Hiring for a right candidate Right Job helps to connect verified candidates</string>
+    <string name="recruiter">Recruiter</string>
+    <string name="login_and_applying_for_a_job">Login and Applying for a job</string>
+    <string name="enter_your_mobile_number">Enter your Mobile Number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="please_enter_otp">Please enter OTP</string>
+    <string name="login">Login</string>
+    <string name="resend_otp">Resend OTP</string>
 </resources>
